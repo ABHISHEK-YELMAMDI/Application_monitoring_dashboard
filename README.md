@@ -39,7 +39,7 @@ The `log-analytics/` directory contains:
    [Metrics Generator]
 
 
-## Prerequisites
+# Prerequisites
 
 Docker
 
